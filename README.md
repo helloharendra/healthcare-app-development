@@ -301,3 +301,14 @@ This repository is a healthcare app development service and portfolio showcase b
 It does not represent a claim that every feature listed above is already implemented in a publicly available application.
 
 **Proprietary Notice:** This repository is a project showcase. No permission to redistribute, reuse, or commercially exploit proprietary source code, branding, or materials is granted unless separately authorized in writing.
+
+<!-- screenshots -->
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center"><b>Home</b><br><br><img src="screenshots/1-home.png" alt="Home" width="240"></td>
+    <td align="center"><b>Appointments</b><br><br><img src="screenshots/2-appointments.png" alt="Appointments" width="240"></td>
+    <td align="center"><b>Doctor Profile & Slot Booking</b><br><br><img src="screenshots/3-doctor-booking.png" alt="Doctor Profile & Slot Booking" width="240"></td>
+  </tr>
+</table>
